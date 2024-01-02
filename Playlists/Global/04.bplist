@@ -1,1 +1,604 @@
-da
+{
+  "playlistTitle": "BSCL Level 04",
+  "playlistAuthor": "Beat Saber Challenge List",
+  "playlistDescription": "BSCL Level 04",
+  "customData": {
+    "syncURL": "https://raw.githubusercontent.com/SaiteiVR/BSCL/main/Playlists/Global/04.bplist"
+  },
+  "songs": [
+    {
+      "hash": "5f8616e74b2918935fd743a69b54227a7e1b386e",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "15ca78b8f3ce9cc1663c2603ad128df6f471bb41",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "1a6cd4336baf5ed7d00148f62276799990e063b7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "c6a1f38830c4c7f99b4f42862434172b09587bd6",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "24c8f513358717bbb8dcd5537ef08d2263a1afba",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "48830f1a0f026e3c768619cb56b970535a35259a",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "b5e010c45f235fa4e6ae16ff2b3c35f1622f391e",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "7f188a9594611777c2a6c2ed120cbf4d91f5b05d",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "ebe956a982b792c4f9b1441f4f628c767fe51024",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "259e3a4a70c46cd07f41dd538169588244480397",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "6f8778ab7f666ab0b3ba0ad8bcb195094872e450",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "fafac1775f815f90000fb079614ed1ad95180be1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "21772769fafbd082f326d731ed684e78bd68069d",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "1d266404f4f778e2e15d00bac35465f40b7c7d4d",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "598252e158958cdd77779af4e3d3886694f847e4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "4353cf912d3f3cb33d07d30e8555f25dabd19cb3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "583485a243190ddb9ff46a476f6ca6b7d53ac8df",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "39de17a09885b86878b28cb1e3278de37ba7f9ea",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "ab9ab9fd9cf051d6a0937325382c0b7f835c12ef",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "d8129d50d8953b7f1b9d1c80f359cb8d199e539d",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "0ff2e63f0e222aa795f84369a6d5d3bb409bf60c",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "1116f1671541bbef28e4d9780a83ec8431500335",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "fdb6f1b58875932f4d70b8e25702318fae2c6e63",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "948e57870fa975cae21e76c9d4bad764422035ad",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "eb7e9e07b881dc6e77fa4498128de65fe98271b0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "13c6f9fe55c2a80ad1020d4f84b492e3d829ba5f",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "a3b5f8e4f8e3e20604a0aebb18036263b3f9cb53",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "d99db4c1d15d7ed66e3d5b6fb803116e76d2a937",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "398f14966a4e9ba3a34d7e5173d7e8dde5aadc86",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "715b87f68eb06088a585f95d4ba320f655485f5e",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "a5eaa3e281ce3c269d2fca7173872372c4b2f399",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "0075ceda61791aba519d21c634c5664dbfd9a9ef",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "b4366afa5f34e235a30beb8d56308613a4819f11",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "e9a597eab8994660b78f51b9c9c4a96f54a5b853",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "e6f2d0b53d4738750e08f236865f3422a2652d3c",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "80d4671f15f75ebdd9614637019729faba16ed71",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "ef1381653b445969c28153c2e47494cea543fade",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "eedbf3bc917e3c93bc4e8c7c7bf5833ad23c6953",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "ac91d103ab74fc24475eac7cc9655d1b2e1530a8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "dac75c80af2a9d4ed07df43e3838277995b18077",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "15458ccb3e9eb06d1d5dfd8cbef47b768e71de06",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "1af7877c65556d6d2fc23ae4792e5b5b6edbbbbe",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "f0a3c90be749dccfcffad1de643cabeee86e0aed",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "5453a403af9926f09f53dfa030508cbc10ccc95c",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "cda46698a4a71c3ca0425294ed32a9970a8e6e1e",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "b36412368e0babbd843b37d3f57ce3e573fda770",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "dadafcea9354d5de3beb0df9997595c2d99ab749",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "9a1c249ef1ee36d9b1477da12090b468e9961f0f",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "20bef9a642479bbaea7811f86a14e310195f64db",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "5e6fe400d1ebdefa0a52eaf99617cdb45d9618dd",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "7b04a7101d66cef788613a43bc731b3e80da10f8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "30622ed38952594c17aca22eda02fe1264bae83d",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "f296a858711722178e42d7db5ffbe630b33fd870",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "95806b355b457ff61f4372259c4be9a9d3b5a48a",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "a3c2f7873d3ba918a404c21135f2a108a70c9765",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "hash": "56dc4a9c5bf92e8fe03df837cc3386acd2764ed3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "a101215b8452934577f625db0677cdef2f95f98b",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "fda8dd9d2aaf70a4a522034dd119531b99b7c0a0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "545502c34d983011e97b6d094d2e26bc387fccda",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "6d5506a42743095fd954faf97d26ea64778763c8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "a74579c6b5784980d0f87d3e8ca0379caefe3466",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "6263cb81117ae6aa5a59d4075d41a6591c0f3def",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "aefacac4ac73afc081257affa39efeb71c01a4ae",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "fa34412140e3079b4acef8cf31013c2479db8670",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "bdcb6a946e8b8fcd6456666c39c56bfd31f74e7c",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "hash": "5cabb21ba44455aa3fbc003874b789572300ad1d",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    }
+  ]
+}
