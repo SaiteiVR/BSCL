@@ -3,7 +3,7 @@
   "playlistAuthor": "Beat Saber Challenge List",
   "playlistDescription": "BSCL Level 21",
   "customData": {
-    "syncURL": "https://raw.githubusercontent.com/SaiteiVR/BSCL/main/Playlists/Global/21"
+    "syncURL": "https://raw.githubusercontent.com/SaiteiVR/BSCL/main/Playlists/Global/21.bplist"
   },
   "songs": [
     {
@@ -1061,6 +1061,15 @@
     },
     {
       "hash": "7c091cbcdb712a726371769f19f1cd91fe7c84c3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "hash": "eedbf3bc917e3c93bc4e8c7c7bf5833ad23c6953",
       "difficulties": [
         {
           "characteristic": "Standard",
