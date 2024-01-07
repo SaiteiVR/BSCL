@@ -7,15 +7,6 @@
   },
   "songs": [
     {
-      "hash": "3d9e8298877febf578b784c6d24f6f457e5f71c9",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "hash": "36ea8133ca1d3a6c58dd6d076a02ce6ecd7f5f66",
       "difficulties": [
         {
