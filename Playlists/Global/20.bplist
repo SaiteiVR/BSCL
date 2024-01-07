@@ -367,15 +367,6 @@
       ]
     },
     {
-      "hash": "512988ef45ff3c9aad6723b3aa835d9f215877d9",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "hash": "0e26d22dbbef9ba1bfea35f2436300d7914398a4",
       "difficulties": [
         {
