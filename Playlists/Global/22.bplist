@@ -25,6 +25,15 @@
       ]
     },
     {
+      "hash": "d841c122ddc8a3a371653f0e0805cadf7d2eb44f",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
       "hash": "6d55d6bd970b54e5c01d3b9cd8e6a44b911f39ab",
       "difficulties": [
         {
