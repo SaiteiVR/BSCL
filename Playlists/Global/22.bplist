@@ -502,6 +502,15 @@
       ]
     },
     {
+      "hash": "97af805fedb1081de129783e1365b401a763a4dd",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "hash": "2824066b7d474ebac74703603766b42d5a82e04c",
       "difficulties": [
         {
