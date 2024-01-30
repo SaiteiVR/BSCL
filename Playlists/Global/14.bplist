@@ -1051,15 +1051,6 @@
       ]
     },
     {
-      "hash": "5f3d015e705520bb339e933a468bb6fcac61d1e6",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "hash": "8a524118b948a52574ff8b32076569bcc23ebece",
       "difficulties": [
         {
